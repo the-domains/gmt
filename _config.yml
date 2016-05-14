@@ -1,0 +1,28 @@
+name: GMT
+favicon: null
+layout_spectrum: 0.8957411292940378
+typography_spectrum: 0.3002213058061898
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.1530785548966378
+  lightness: 0.04598628147505224
+  saturation: 0.9665299160405993
+  rhythmicContrast: 0.4082055303733796
+purpose: []
